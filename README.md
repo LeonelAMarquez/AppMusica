@@ -6,13 +6,6 @@ Este proyecto consiste en el desarrollo de una **Base de Datos para la gestión,
 
 Este sistema fue desarrollado en el marco de la **materia Base de Datos 2 (Año 2025)** de la **Tecnicatura Universitaria en Programación - UTN FRGP**.
 
-### 👥 Integrantes del equipo
-
-- Dieser, Germán  
-- Fredes, Jacob Samuel  
-- Frías, Tamara Ruth  
-- Hiebl, Darian
-
 ---
 
 ## 🧩 Descripción del Sistema
